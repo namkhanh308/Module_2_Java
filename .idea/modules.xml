@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/buoi2_loop/baitap/20NumPrime/20NumPrime.iml" filepath="$PROJECT_DIR$/buoi2_loop/baitap/20NumPrime/20NumPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi3_array/baitap/Add-Element-To-Array/Add-Element-To-Array.iml" filepath="$PROJECT_DIR$/buoi3_array/baitap/Add-Element-To-Array/Add-Element-To-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi2_loop/baitap/AllPrimeLess100/AllPrimeLess100.iml" filepath="$PROJECT_DIR$/buoi2_loop/baitap/AllPrimeLess100/AllPrimeLess100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buoi1_Bien/Buoi1_Bien.iml" filepath="$PROJECT_DIR$/Buoi1_Bien/Buoi1_Bien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi6_KeThuaDaHinh/baitap/Circle_Cylinder/Circle_Cylinder.iml" filepath="$PROJECT_DIR$/buoi6_KeThuaDaHinh/baitap/Circle_Cylinder/Circle_Cylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi3_array/baitap/Count-character-in-string/Count-character-in-string.iml" filepath="$PROJECT_DIR$/buoi3_array/baitap/Count-character-in-string/Count-character-in-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi4_oop/baitap/FanClass/FanClass.iml" filepath="$PROJECT_DIR$/buoi4_oop/baitap/FanClass/FanClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi3_array/thuchanh/Find-Element-in-Arrays/Find-Element-in-Arrays.iml" filepath="$PROJECT_DIR$/buoi3_array/thuchanh/Find-Element-in-Arrays/Find-Element-in-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi3_array/thuchanh/Find-Max-Element/Find-Max-Element.iml" filepath="$PROJECT_DIR$/buoi3_array/thuchanh/Find-Max-Element/Find-Max-Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi2_loop/thuchanh/Interest_Caculator/Interest_Caculator.iml" filepath="$PROJECT_DIR$/buoi2_loop/thuchanh/Interest_Caculator/Interest_Caculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi2_loop/thuchanh/IsPrime/IsPrime.iml" filepath="$PROJECT_DIR$/buoi2_loop/thuchanh/IsPrime/IsPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi3_array/baitap/PlusArray/PlusArray.iml" filepath="$PROJECT_DIR$/buoi3_array/baitap/PlusArray/PlusArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi6_KeThuaDaHinh/baitap/Point2D_Point3D/Point2D_Point3D.iml" filepath="$PROJECT_DIR$/buoi6_KeThuaDaHinh/baitap/Point2D_Point3D/Point2D_Point3D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi6_KeThuaDaHinh/baitap/Point_MoveablePoint/Point_MoveablePoint.iml" filepath="$PROJECT_DIR$/buoi6_KeThuaDaHinh/baitap/Point_MoveablePoint/Point_MoveablePoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi4_oop/baitap/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/buoi4_oop/baitap/StopWatch/StopWatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi5_accessModifier/thuchanh/StudentClassStaticMethod/StudentClassStaticMethod.iml" filepath="$PROJECT_DIR$/buoi5_accessModifier/thuchanh/StudentClassStaticMethod/StudentClassStaticMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi3_array/thuchanh/Temperature_conversion/Temperature_conversion.iml" filepath="$PROJECT_DIR$/buoi3_array/thuchanh/Temperature_conversion/Temperature_conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi6_KeThuaDaHinh/baitap/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/buoi6_KeThuaDaHinh/baitap/Triangle/Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi5_accessModifier/thuchanh/carStaticProperty/carStaticProperty.iml" filepath="$PROJECT_DIR$/buoi5_accessModifier/thuchanh/carStaticProperty/carStaticProperty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi5_accessModifier/baitap/circleAccessModifier/circleAccessModifier.iml" filepath="$PROJECT_DIR$/buoi5_accessModifier/baitap/circleAccessModifier/circleAccessModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi3_array/baitap/count-student-pass/count-student-pass.iml" filepath="$PROJECT_DIR$/buoi3_array/baitap/count-student-pass/count-student-pass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi3_array/baitap/delete-element-in-array/delete-element-in-array.iml" filepath="$PROJECT_DIR$/buoi3_array/baitap/delete-element-in-array/delete-element-in-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi2_loop/baitap/draw-triangle/draw-triangle.iml" filepath="$PROJECT_DIR$/buoi2_loop/baitap/draw-triangle/draw-triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi2_loop/thuchanh/drawing-menu/drawing-menu.iml" filepath="$PROJECT_DIR$/buoi2_loop/thuchanh/drawing-menu/drawing-menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi3_array/thuchanh/find-minimum/find-minimum.iml" filepath="$PROJECT_DIR$/buoi3_array/thuchanh/find-minimum/find-minimum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi2_loop/thuchanh/greater-common-factor/greater-common-factor.iml" filepath="$PROJECT_DIR$/buoi2_loop/thuchanh/greater-common-factor/greater-common-factor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi4_oop/baitap/quadratic-equation/quadratic-equation.iml" filepath="$PROJECT_DIR$/buoi4_oop/baitap/quadratic-equation/quadratic-equation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi3_array/thuchanh/reverse-array/reverse-array.iml" filepath="$PROJECT_DIR$/buoi3_array/thuchanh/reverse-array/reverse-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi5_accessModifier/baitap/studentAccessModifier/studentAccessModifier.iml" filepath="$PROJECT_DIR$/buoi5_accessModifier/baitap/studentAccessModifier/studentAccessModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi3_array/baitap/sum-array/sum-array.iml" filepath="$PROJECT_DIR$/buoi3_array/baitap/sum-array/sum-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi6_KeThuaDaHinh/thuchanh/thuchanh.iml" filepath="$PROJECT_DIR$/buoi6_KeThuaDaHinh/thuchanh/thuchanh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi4_oop/thuchanh/thuchanh1.iml" filepath="$PROJECT_DIR$/buoi4_oop/thuchanh/thuchanh1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi3_array/baitap/two-dimensional-array/two-dimensional-array.iml" filepath="$PROJECT_DIR$/buoi3_array/baitap/two-dimensional-array/two-dimensional-array.iml" />
+    </modules>
+  </component>
+</project>
