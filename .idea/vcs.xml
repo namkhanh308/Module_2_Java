@@ -3,6 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/buoi3_array/baitap/Add-Element-To-Array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/buoi3_array/baitap/Add-Element-To-Array1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/buoi3_array/baitap/delete-element-in-array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/buoi3_array/baitap/delete-element-in-array1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/buoi7_AbtractClass_Interface/thuchanh/Animal_and_Edible" vcs="Git" />
   </component>
 </project>
